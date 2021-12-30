@@ -1,0 +1,3 @@
+#!/bin/bash
+
+uvicorn sentiment_model.api:app

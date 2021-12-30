@@ -1,0 +1,10 @@
+{
+    "PRE_TRAINED_MODEL_NAME": "bert-base-cased",
+    "MODEL_STATE_PATH": "assets/best_model_state.pt",
+    "CLASS_NAMES": [
+        "negative",
+        "neutral",
+        "positive"
+    ],
+    "MAX_SEQUENCE_LEN": 160
+}
