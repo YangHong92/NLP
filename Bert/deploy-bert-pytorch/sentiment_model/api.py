@@ -1,4 +1,3 @@
-import re
 from typing import Dict
 from fastapi import FastAPI, Depends
 from pydantic import BaseModel
